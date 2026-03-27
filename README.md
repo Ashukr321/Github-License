@@ -281,8 +281,10 @@ Contributions are what make the open-source community an amazing place to learn,
 
 <p align="center">
   <a href="https://github.com/Ashukr321"><img src="https://img.shields.io/badge/GitHub-Ashukr321-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/ashutosh-kumar"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh_Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:ashutosh.kumar@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ashukr321/"><img src="https://img.shields.io/badge/LinkedIn-ashukr321-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ashukr321/"><img src="https://img.shields.io/badge/Instagram-ashukr321-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:coderashukr321@gmail.com"><img src="https://img.shields.io/badge/Email-coderashukr321-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+917004246315"><img src="https://img.shields.io/badge/Phone-7004246315-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 </p>
 
 ### 🏆 Achievements
